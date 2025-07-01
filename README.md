@@ -1,4 +1,3 @@
-# mobile-todo
 # TodoMaster - Cross-Platform Task Management App
 
 A beautiful, intuitive, and feature-rich todo task management mobile application built with React Native and Expo. This app allows users to manage their personal tasks with full CRUD operations, social authentication, and a modern UI design.
